@@ -13806,7 +13806,7 @@ a {
 
 .recap-bg {
   width: 100%;
-  background: url("../images/live-stream-review.png") no-repeat center;
+  background: url("../images/recap.png") no-repeat center;
   background-size: cover;
   -o-object-fit: cover;
      object-fit: cover;
